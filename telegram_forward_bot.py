@@ -3,8 +3,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ---------- تنظیمات اصلی ----------
-BOT_TOKEN = "BOT_TOKEN"
-OWNER_USER_ID = OWNER_ID  # آیدی عددی خودت
+BOT_TOKEN = "8575880506:AAH3I87SNAR5YFC7vvQW3k9lEJp9-N8Bj5A"
+OWNER_USER_ID = 8321313612  # آیدی عددی خودت
 tenants = {}  # برای مدیریت مشتری‌ها و کانال‌هایشون
 
 # ---------- دستورات مالک ----------
